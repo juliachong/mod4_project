@@ -20,7 +20,6 @@ Tests/Models:
 Visualizations:
 
 ![](hatecrimes3.png)
-![](hatecrime1.png)
 ![](hatecrimes2.png)
 ![](hatecrimes.png)
 
